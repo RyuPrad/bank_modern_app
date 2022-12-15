@@ -8,3 +8,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>,
 )
+
+
+// Import everything listed to App !!!!!!!!!!!! YESSSSSSss ME UNDErsTAND
