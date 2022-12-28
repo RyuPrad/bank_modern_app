@@ -1,3 +1,3 @@
 Website URL: https://hoobankcompany.netlify.app/
 
-Tech stack: React.js, Tailwind CSS
+Tech used: HTML, CSS, JavaScript, React.js, Tailwind CSS
